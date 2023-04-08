@@ -8,6 +8,7 @@ public class Demo {
 		d.barking();
 		d.eating();
 		System.out.println("changes done now");
+		System.out.println("see now new changes");
 
 	}
 
