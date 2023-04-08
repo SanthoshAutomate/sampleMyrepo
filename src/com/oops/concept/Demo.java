@@ -7,6 +7,7 @@ public class Demo {
 		Dog d = new Dog();
 		d.barking();
 		d.eating();
+		System.out.println("changes done");
 
 	}
 
