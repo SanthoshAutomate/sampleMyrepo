@@ -1,11 +1,11 @@
 package com.oops.concept;
 
-public class DemoClass {
+public class SampleDemoPage {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("this is a demo class...");
+		System.out.println("hiii");
 	}
 
 }
